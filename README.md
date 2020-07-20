@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 🎮 Lately I've been drifting towards Unity Editor Tools and Shader development, though, with some neat things coming soon 👀
 
-🎨 Some of more artsy stuff that i do is also available on [ArtStation](https://www.artstation.com/orels1)
+🎨 Some of more artsy stuff I do is available on [ArtStation](https://www.artstation.com/orels1)
 
-🤖 If you're into discord bots, you might also know another project of mine - [cogs.red](https://cogs.red) which I made and used to maintain for the lovely community at [Red](https://github.com/Cog-Creators/Red-DiscordBot), altho these days I had to detach from that project due to [a bunch of reasons](), which I am incredibly sad about, but it is how it is.
+🤖 If you're into discord bots, you might also know another project of mine - [cogs.red](https://cogs.red), which I made and used to maintain for the lovely community at [Red](https://github.com/Cog-Creators/Red-DiscordBot). Altho these days I had to detach from that project due to [a bunch of reasons](https://orels.sh/whats-up-with-cogs-red), which I am incredibly sad about, but it is how it is.
 
 💬 If you like what I do - feel free to drop by my [Discord server](https://discord.com/invite/fR869XP) or even check out the [Patreon page](https://patreon.com/orels1)!
 
