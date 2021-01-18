@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👋 Heyo, I'm Anton (orels1) and I mostly write utilitarian stuff: from tiny [mock servers](https://github.com/orels1/puremock) to [API clients](https://github.com/orels1/rawger) and [status pages](https://orels1/statusreport).
 
-🎮 Lately I've been drifting towards Unity Editor Tools and Shader development, though. If you do any VRChat Udon development - [check out UdonToolkit](https://github.com/orels1/UdonToolkit)
+🎮 Lately I've been drifting towards Unity Editor Tools and Shader development, though. If you do any VRChat Udon development - [check out UdonToolkit](https://github.com/orels1/UdonToolkit), as well as my assorted [Editor Scripts](https://github.com/orels1/orels1-Unity-Scripts) and [Shaders](https://github.com/orels1/orels1-Unity-Shaders)
 
 🎨 Some of more artsy stuff I do is available on [ArtStation](https://www.artstation.com/orels1)
 
